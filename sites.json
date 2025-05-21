@@ -136,11 +136,6 @@
   {
     "name": "Dace Willmott",
     "site_url": "https://buffer.com",
-    "feed_url": "",
-    "x_url": "",
-    "mastodon_url": "",
-    "threads_url": "",
-    "bluesky_url": "",
     "github_url": "https://github.com/dace",
     "instagram_url": "",
     "side_projects": []
@@ -165,11 +160,6 @@
     "site_url": "https://apollin.com",
     "feed_url": "https://apollin.com/feed/",
     "x_url": "https://x.com/apollincom",
-    "mastodon_url": "",
-    "threads_url": "",
-    "bluesky_url": "",
-    "github_url": "",
-    "instagram_url": "",
     "linkedin_url": "https://www.linkedin.com/in/arkadiuszpanek/",
     "side_projects": []
   },
@@ -242,7 +232,7 @@
     "feed_url": "https://luhr.co/feed.xml",
     "x_url": "https://twitter.com/david_luhr",
     "mastodon_url": "https://mastodon.social/@luhr",
-    "bluesky_url": "https://bsky.app/profile/luhr.co",
+    "bluesky_url": "https://bsky.app/profile/davidluhr.bsky.social",
     "github_url": "https://github.com/davidluhr",
     "instagram_url": "https://www.linkedin.com/in/davidluhr/",
     "side_projects": []
