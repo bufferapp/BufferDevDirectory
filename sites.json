@@ -1,0 +1,262 @@
+[
+  {
+    "name": "Andy Yates",
+    "site_url": "https://ay8s.com",
+    "x_url": "https://x.com/ay8s",
+    "mastodon_url": "https://mastodon.social/@ay8s",
+    "threads_url": "https://www.threads.com/@ay8ss",
+    "bluesky_url": "https://bsky.app/profile/ay8s.com",
+    "github_url": "https://github.com/ay8s",
+    "instagram_url": "https://instagram.com/ay8ss",
+    "side_projects": [
+      {
+        "name": "F1 Calendar",
+        "site_url": "https://f1calendar.com"
+      },
+      {
+        "name": "Alpenglow",
+        "site_url": "https://alpenglowapp.com"
+      }
+    ]
+  },
+  {
+    "name": "Steven Cheng",
+    "site_url": "https://medium.com/@stevenc81",
+    "x_url": "https://x.com/stevenc81",
+    "side_projects": []
+  },
+  {
+    "name": "Mike San Román",
+    "site_url": "https://msanroman.io",
+    "feed_url": "https://msanroman.io/rss.xml",
+    "x_url": "https://twitter.com/msanromanv",
+    "threads_url": "https://www.threads.com/@mike.sanroman",
+    "bluesky_url": "https://bsky.app/profile/mikesanroman.bsky.social",
+    "github_url": "https://github.com/msanroman/",
+    "instagram_url": "https://instagram.com/mike.sanroman",
+    "side_projects": []
+  },
+  {
+    "name": "José Gilgado",
+    "site_url": "https://josem.co",
+    "feed_url": "https://josem.co//articles/index.xml",
+    "x_url": "https://twitter.com/gilgado_",
+    "mastodon_url": "https://mstdn.social/@josem",
+    "github_url": "https://github.com/josem",
+    "side_projects": []
+  },
+  {
+    "name": "Eric Khun",
+    "site_url": "https://erickhun.com/",
+    "feed_url": "https://erickhun.com/about/index.xml",
+    "x_url": "https://x.com/eric_khun",
+    "github_url": "https://github.com/erickhun",
+    "instagram_url": "https://www.instagram.com/juiced69",
+    "linkedin_url": "https://www.linkedin.com/in/erickhun",
+    "side_projects": []
+  },
+  {
+    "name": "Phil Miguet",
+    "site_url": "https://buffer.com",
+    "x_url": "https://x.com/philmiguet",
+    "github_url": "https://github.com/philippemiguet",
+    "side_projects": []
+  },
+  {
+    "name": "Julian Winternheimer",
+    "threads_url": "https://www.threads.com/@julheimer",
+    "github_url": "https://github.com/jwinternheimer",
+    "side_projects": []
+  },
+  {
+    "name": "Adnan Issadeen",
+    "site_url": "https://adnanissadeen.com",
+    "feed_url": "https://adnanissadeen.com/blog/rss",
+    "mastodon_url": "https://mstdn.party/@kiriappeee",
+    "threads_url": "https://www.threads.com/@kiriappeee",
+    "github_url": "https://github.com/kiriappeee/",
+    "instagram_url": "https://www.instagram.com/kiriappeee/",
+    "side_projects": []
+  },
+  {
+    "name": "Mick Mahady",
+    "site_url": "https://buffer.com",
+    "x_url": "https://twitter.com/cosmick90",
+    "instagram_url": "https://instagram.com/cosmick_90/",
+    "linkedin_url": "https://www.linkedin.com/in/mick-mahady/",
+    "side_projects": []
+  },
+  {
+    "name": "Hamish Macpherson",
+    "site_url": "https://hami.sh",
+    "x_url": "https://twitter.com/hamstu",
+    "threads_url": "https://www.threads.com/@hamstu",
+    "bluesky_url": "https://bsky.app/profile/hami.sh",
+    "github_url": "https://github.com/hamstu",
+    "instagram_url": "https://www.instagram.com/hamstu/",
+    "side_projects": []
+  },
+  {
+    "name": "Joe Birch",
+    "site_url": "http://joebirch.co",
+    "feed_url": "https://joebirch.co/feed/",
+    "x_url": "https://x.com/hitherejoe",
+    "mastodon_url": "https://androiddev.social/@hitherejoe",
+    "threads_url": "https://www.threads.com/@hitherejoe",
+    "bluesky_url": "https://bsky.app/profile/hitherejoe.bsky.social",
+    "github_url": "https://github.com/hitherejoe",
+    "instagram_url": "https://www.instagram.com/hitherejoe/",
+    "side_projects": []
+  },
+  {
+    "name": "Maya",
+    "site_url": "https://buffer.com",
+    "side_projects": []
+  },
+  {
+    "name": "Eduardo \"Edu\" Esclapes",
+    "site_url": "https://esclap.es",
+    "feed_url": "https://esclap.es/feed.xml",
+    "x_url": "https://twitter.com/esclapes",
+    "github_url": "https://github.com/esclapes",
+    "instagram_url": "https://instagram.com/eesclapes",
+    "linkedin_url": "http://linkedin.com/in/esclapes",
+    "side_projects": []
+  },
+  {
+    "name": "Dinos Theodorou",
+    "site_url": "https://www.dinostheo.dev",
+    "x_url": "https://x.com/x_maras",
+    "bluesky_url": "https://bsky.app/profile/dinostheo.bsky.social",
+    "github_url": "https://github.com/dinostheo",
+    "instagram_url": "https://www.instagram.com/x_maras/",
+    "linkedin_url": "https://www.linkedin.com/in/ktheodorou",
+    "side_projects": []
+  },
+  {
+    "name": "Dace Willmott",
+    "site_url": "https://buffer.com",
+    "feed_url": "",
+    "x_url": "",
+    "mastodon_url": "",
+    "threads_url": "",
+    "bluesky_url": "",
+    "github_url": "https://github.com/dace",
+    "instagram_url": "",
+    "side_projects": []
+  },
+  {
+    "name": "Carlos Muñoz",
+    "site_url": "https://buffer.com",
+    "x_url": "https://twitter.com/cmunozgar",
+    "github_url": "https://github.com/cmunozgar",
+    "side_projects": []
+  },
+  {
+    "name": "Peter Emil",
+    "site_url": "https://blog.peteremil.com",
+    "feed_url": "https://blog.peteremil.com/feeds/posts/default?alt=rss",
+    "github_url": "https://github.com/peter-emil",
+    "linkedin_url": "https://linkedin.com/in/peter-emil",
+    "side_projects": []
+  },
+  {
+    "name": "Arek Panek",
+    "site_url": "https://apollin.com",
+    "feed_url": "https://apollin.com/feed/",
+    "x_url": "https://x.com/apollincom",
+    "mastodon_url": "",
+    "threads_url": "",
+    "bluesky_url": "",
+    "github_url": "",
+    "instagram_url": "",
+    "linkedin_url": "https://www.linkedin.com/in/arkadiuszpanek/",
+    "side_projects": []
+  },
+  {
+    "name": "Mw Güldenpfennig",
+    "site_url": "https://buffer.com",
+    "github_url": "https://github.com/guldenmw",
+    "side_projects": []
+  },
+  {
+    "name": "Daisy Smith",
+    "site_url": "https://daisymarie128.github.io/",
+    "x_url": "https://x.com/daisysmells",
+    "github_url": "https://github.com/daisymarie128",
+    "linkedin_url": "https://au.linkedin.com/in/daisysmith",
+    "side_projects": []
+  },
+  {
+    "name": "Abeeb Amoo",
+    "site_url": "https://buffer.com",
+    "github_url": "https://github.com/amooabeebadesina",
+    "side_projects": []
+  },
+  {
+    "name": "Jacob Chadwell",
+    "site_url": "https://jacobc.start.page",
+    "threads_url": "https://www.threads.com/@jacob.chadwell",
+    "bluesky_url": "https://bsky.app/profile/jacobchadwell.bsky.social",
+    "github_url": "https://github.com/jacobchadwell",
+    "linkedin_url": "https://www.linkedin.com/in/jacob-chadwell/",
+    "side_projects": []
+  },
+  {
+    "name": "Esther Gómez Díaz",
+    "site_url": "https://buffer.com",
+    "github_url": "https://github.com/Kibukita",
+    "side_projects": []
+  },
+  {
+    "name": "Raf",
+    "site_url": "https://rafleszczynski.start.page/",
+    "mastodon_url": "https://mstdn.games/@raf_leszczynski",
+    "threads_url": "https://www.threads.net/@raf_leszczynski",
+    "github_url": "https://github.com/rafleszczynski",
+    "linkedin_url": "https://www.linkedin.com/in/rleszcz/",
+    "side_projects": []
+  },
+  {
+    "name": "Kateryna Porschnieva",
+    "site_url": "https://www.kateryna.codes",
+    "x_url": "https://x.com/krambertech",
+    "threads_url": "https://www.threads.com/@krambertech",
+    "github_url": "https://github.com/krambertech",
+    "instagram_url": "https://www.instagram.com/krambertech/",
+    "side_projects": []
+  },
+  {
+    "name": "Martin Garcia",
+    "site_url": "https://magarcia.io",
+    "feed_url": "https://magarcia.io/rss.xml",
+    "x_url": "https://twitter.com/martinprins",
+    "bluesky_url": "https://bsky.app/profile/mgarcia.bsky.social",
+    "github_url": "https://github.com/magarcia",
+    "linkedin_url": "https://www.linkedin.com/in/martingarciamonterde/",
+    "side_projects": []
+  },
+  {
+    "name": "David Luhr",
+    "site_url": "https://luhr.co/",
+    "feed_url": "https://luhr.co/feed.xml",
+    "x_url": "https://twitter.com/david_luhr",
+    "mastodon_url": "https://mastodon.social/@luhr",
+    "bluesky_url": "https://bsky.app/profile/luhr.co",
+    "github_url": "https://github.com/davidluhr",
+    "instagram_url": "https://www.linkedin.com/in/davidluhr/",
+    "side_projects": []
+  },
+  {
+    "name": "Jakub Olek",
+    "site_url": "https://buffer.com",
+    "github_url": "https://github.com/hakubo",
+    "side_projects": []
+  },
+  {
+    "name": "Joe Delgado",
+    "site_url": "https://buffer.com",
+    "github_url": "https://github.com/joe0xbuffer",
+    "side_projects": []
+  }
+]

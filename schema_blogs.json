@@ -1,0 +1,121 @@
+{
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["name", "site_url"],
+    "additionalProperties": false,
+    "properties": {
+      "name": {
+        "type": "string"
+      },
+      "site_url": {
+        "type": "string",
+        "format": "uri"
+      },
+      "feed_url": {
+        "type": "string",
+        "format": "uri"
+      },
+      "x_url": {
+        "type": "string",
+        "format": "uri"
+      },
+      "mastodon_url": {
+        "type": "string"
+      },
+      "threads_url": {
+        "type": "string",
+        "format": "uri"
+      },
+      "bluesky_url": {
+        "type": "string",
+        "format": "uri"
+      },
+      "github_url": {
+        "type": "string",
+        "format": "uri"
+      },
+      "instagram_url": {
+        "type": "string",
+        "format": "uri"
+      },
+      "linkedin_url": {
+        "type": "string",
+        "format": "uri"
+      },
+      "microblog_url": {
+        "type": "string",
+        "format": "uri"
+      },
+      "twitter_url": {
+        "type": "string",
+        "format": "uri"
+      },
+      "weibo_url": {
+        "type": "string",
+        "format": "uri"
+      },
+      "side_projects": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "required": ["name", "site_url"],
+          "additionalProperties": false,
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "site_url": {
+              "type": "string",
+              "format": "uri"
+            },
+            "feed_url": {
+              "type": "string",
+              "format": "uri"
+            },
+            "x_url": {
+              "type": "string",
+              "format": "uri"
+            },
+            "mastodon_url": {
+              "type": "string",
+              "format": "uri"
+            },
+            "threads_url": {
+              "type": "string",
+              "format": "uri"
+            },
+            "bluesky_url": {
+              "type": "string",
+              "format": "uri"
+            },
+            "github_url": {
+              "type": "string",
+              "format": "uri"
+            },
+            "instagram_url": {
+              "type": "string",
+              "format": "uri"
+            },
+            "linkedin_url": {
+              "type": "string",
+              "format": "uri"
+            },
+            "microblog_url": {
+              "type": "string",
+              "format": "uri"
+            },
+            "twitter_url": {
+              "type": "string",
+              "format": "uri"
+            },
+            "weibo_url": {
+              "type": "string",
+              "format": "uri"
+            }
+          }
+        }
+      }
+    }
+  }
+}
